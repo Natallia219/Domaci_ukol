@@ -1,0 +1,31 @@
+body {
+    background-color: #eeb9d6
+    
+}
+
+h1{
+    color: #4e0433;
+}
+
+h3{
+    color: rgb(235, 54, 181);
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Italianno', cursive;
+}
+
+h3{
+    font-size: 40px;
+    font-family: 'Italianno', cursive;
+    
+}
+
+body{
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: 'Playfair Display', serif;
+
+}
