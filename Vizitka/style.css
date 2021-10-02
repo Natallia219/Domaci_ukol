@@ -1,6 +1,7 @@
 body {
-    background-color: #eeb9d6
-    
+    background-color: #eeb9d6;
+    color: rgb(7, 70, 15);
+
 }
 
 h1{
@@ -10,6 +11,7 @@ h1{
 h3{
     color: rgb(235, 54, 181);
 }
+
 
 h1{
     font-size: 50px;
@@ -26,6 +28,18 @@ h3{
 body{
     font-size: 18px;
     line-height: 1.5;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', serif;}
+
+    
+a{
+    color:rgb(7, 70, 15);
+}
+    a:hover{color: rgb(231, 206, 226);
+
+    }
+
+
+
+
 
 }
